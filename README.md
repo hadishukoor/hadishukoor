@@ -56,9 +56,9 @@ I am a **Software Engineering Student** and aspiring **Full Stack Engineer** wit
 
 <div align="center">
   
-![Hadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadishukoor&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![Hadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadishukoor&theme=dark&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&cache_seconds=3600)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadishukoor&theme=dark&layout=compact&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadishukoor&theme=dark&layout=compact&hide_border=true&langs_count=8&cache_seconds=3600)
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=hadishukoor&theme=dark&hide_border=true)
 
