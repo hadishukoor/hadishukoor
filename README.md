@@ -68,6 +68,24 @@ I am a **Software Engineering Student** and aspiring **Full Stack Engineer** wit
 
 ## 🌟 Featured Projects
 
+### ⚡ Energy Core ⭐ (Current Project)
+A comprehensive Full Stack MERN application for smart energy and water management systems. Features real-time monitoring, device control, data visualization with interactive charts, user authentication, and settings management. Built with modern web technologies and best practices.
+
+**Key Features:**
+- 🔐 JWT-based user authentication and authorization
+- 📊 Real-time energy and water consumption tracking
+- 📈 Interactive charts and data visualization (Recharts)
+- 🎛️ Device control and management (CRUD operations)
+- ⚙️ User settings with optimistic UI updates
+- 💾 MongoDB aggregation pipeline for efficient data processing
+- 🎨 Modern, responsive UI with Tailwind CSS
+
+**Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Recharts, JWT Authentication, Tailwind CSS, Mongoose ODM
+
+**Repository:** [🔗 View on GitHub](https://github.com/ashishkrishna888/Energy-Core)
+
+---
+
 ### 🗑️ Waste Management System
 A platform to spread awareness and encourage proper waste disposal. Built with modern web technologies to help communities manage waste more effectively.
 
@@ -77,11 +95,6 @@ A platform to spread awareness and encourage proper waste disposal. Built with m
 A smart shopping assistant built for finding the best deals. Uses AI to help users save money while shopping online.
 
 **Tech Stack:** React.js, Node.js, Python, AI/ML
-
-### ⚡ Energy Core (Current Project)
-A Full Stack MERN application for smart energy and water management. Features real-time monitoring, device control, and data visualization.
-
-**Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Recharts, JWT Authentication
 
 ---
 
@@ -134,4 +147,5 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ![Profile Views](https://komarev.com/ghpvc/?username=hadishukoor&color=blueviolet&style=flat-square)
 
 </div>
+
 
