@@ -11,7 +11,7 @@ I am a **Software Engineering Student** and aspiring **Full Stack Engineer** wit
 - 🎓 **Student** - Currently pursuing **B.Tech in Information Technology** at Lovely Professional University (2023 - 2027)
 - 💼 Working as a **Freelance Web Developer** (Oct 2025 - Present)
 - 🧠 Actively studying **Data Structures & Algorithms (DSA)** and practicing problem-solving
-- 💻 Solving coding challenges on platforms like LeetCode, HackerRank, and CodeChef
+- 💻 Solving coding challenges
 - 🌱 Always learning and exploring new technologies
 - 💡 Passionate about solving real-world problems through code
 - 🎯 Focused on building scalable and maintainable applications
