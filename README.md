@@ -128,7 +128,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ## 🎯 Current Focus
 
 - 🎓 **Student Life:** Balancing academics with practical software development
-- 🧠 **DSA & Problem Solving:** Daily practice on LeetCode, HackerRank, and competitive programming platforms
+- 🧠 **DSA & Problem Solving**
 - 🔥 Building scalable Full Stack applications with MERN stack
 - 📚 Learning advanced React patterns and Node.js optimization
 - 🌐 Exploring cloud deployment and DevOps practices
