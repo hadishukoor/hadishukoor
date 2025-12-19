@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="bismillah.png" alt="Bismillah" width="500" />
-  <br />
-</div>
 # 👋 Hi, I'm Mohammad Hadi Shukoor
 
 ## 🚀 Software Engineer | Full Stack Developer | MERN Stack | DSA Enthusiast | Problem Solver
