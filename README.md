@@ -1,152 +1,167 @@
-# 👋 Hi, I'm Mohammad Hadi Shukoor
+# 👋 Hi, I'm Mohammed Hadi Shukoor
 
-## 🚀 Software Engineer | Full Stack Developer | MERN Stack | DSA Enthusiast | Problem Solver
+### Full Stack Developer | MERN Stack Developer | Freelance Web Developer | Software Engineering Student
 
----
-
-### 👨‍💻 About Me
-
-I am a **Software Engineering Student** and aspiring **Full Stack Engineer** with a strong focus on the **MERN stack** (MongoDB, Express.js, React, Node.js). I am passionate about building scalable, responsive, and user-friendly web applications that solve real-world problems like waste management, smart energy, and business needs. Alongside web development, I actively practice **Data Structures & Algorithms (DSA)** and **Problem Solving** to strengthen my coding fundamentals and logical thinking. I enjoy learning new technologies and improving my coding skills to create value for businesses and users alike.
-
-- 🎓 **Student** - Currently pursuing **B.Tech in Information Technology** at Lovely Professional University (2023 - 2027)
-- 💼 **Freelance Web Developer** - Working as a Freelance Web Developer (Oct 2025 - Present)
-- 🧠 **DSA Practicing** - Actively studying Data Structures & Algorithms and practicing problem-solving
-- 💻 **Problem Solver** - Solving coding challenges and strengthening core fundamentals
-- 🌱 **Learning Mindset** - Always learning, exploring, and applying new technologies
-- 💡 **Impact-Driven** - Passionate about solving real-world problems through clean, efficient code
-- 🎯 **Quality-Focused** - Focused on building scalable, responsive, and maintainable applications
+I build modern, responsive, and business-focused web applications using the MERN stack. Alongside freelance development, I am pursuing a B.Tech in Information Technology and continuously strengthening my skills in software engineering, system design, web performance, deployment, and data structures & algorithms.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### 💻 Languages
+* 🎓 B.Tech in Information Technology at Lovely Professional University (2023–2027)
+* 💼 Freelance Full Stack Developer
+* 🌐 Building websites and web applications for businesses and clients
+* 🚀 Deploying production-ready applications with performance and SEO optimization
+* 🔧 Working with APIs, Git workflows, domain configuration, hosting, and deployment pipelines
+* 🧠 Practicing Data Structures & Algorithms (DSA)
+* 📚 Learning Software Engineering, System Design, and DevOps fundamentals
+* 📈 Interested in scalable software architecture and performance optimization
+* 🎯 Goal: Build impactful software products used by thousands of users
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Frontend
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Responsive Web Design](https://img.shields.io/badge/Responsive_Design-000?style=for-the-badge&logo=responsive&logoColor=white)
 
-### ⚙️ Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=F231D8)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=postman&logoColor=white)
+![JWT Authentication](https://img.shields.io/badge/JWT_Auth-black?style=for-the-badge&logo=json-web-tokens&logoColor=F231D8)
 
-### 💾 Database
+### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🚀 Deployment & DevOps
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### Deployment & DevOps
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-- 🌐 DNS & Custom Domain Configuration
-- 📈 Web Performance & SEO Optimization
-- 🔄 CI/CD Fundamentals & GitHub Workflows
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Domain & DNS Configuration](https://img.shields.io/badge/Domain_&_DNS-00599C?style=for-the-badge&logo=cloudflare&logoColor=white)
+![SEO Optimization](https://img.shields.io/badge/SEO_Optimization-orange?style=for-the-badge&logo=google&logoColor=white)
+![Web Performance Optimization](https://img.shields.io/badge/Performance_Optimized-brightgreen?style=for-the-badge&logo=lighthouse&logoColor=white)
+![CI/CD Fundamentals](https://img.shields.io/badge/CI%2FCD-Fundamentals-blueviolet?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🧠 Skills & Competencies
-![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-4ECDC4?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-FFA500?style=for-the-badge&logo=codechef&logoColor=white)
-
-### 🛠️ Tools & Others
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-- 🔍 Chrome DevTools & Web Debugging
-- 🤖 AI-assisted Development (Cursor AI)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ---
 
-## 💼 Services Offered
+## 💼 Services
 
-- 💻 **Business & Portfolio Websites** — Modern, responsive, and performance-focused corporate/portfolio sites.
-- 🌐 **Full Stack MERN Applications** — Robust applications with clean REST API integration and state management.
-- ⚡ **Performance & SEO Optimization** — Enhancing page speed, layout stability, and SEO visibility.
-- ⚙️ **Deployment & Infrastructure** — Domain mapping, HTTPS setups, and seamless hosting configurations.
+* Business Websites
+* Portfolio Websites
+* Landing Pages
+* Full Stack MERN Applications
+* Website Optimization & SEO
+* API Integration
+* Deployment & Domain Configuration
 
 ---
 
 ## 🌟 Featured Projects
 
-### ⚡ Energy Core ⭐ (Current Project)
-A comprehensive Full Stack MERN application for smart energy and water management systems. Features real-time monitoring, device control, data visualization with interactive charts, user authentication, and settings management. Built with modern web technologies and best practices.
+### ⚡ SANDS Business Website
 
-**Key Features:**
-- 🔐 JWT-based user authentication and authorization
-- 📊 Real-time energy and water consumption tracking
-- 📈 Interactive charts and data visualization (Recharts)
-- 🎛️ Device control and management (CRUD operations)
-- ⚙️ User settings with optimistic UI updates
-- 💾 MongoDB aggregation pipeline for efficient data processing
-- 🎨 Modern, responsive UI with Tailwind CSS
+A modern business website developed for a real client with a focus on performance, SEO, responsiveness, and user experience.
 
-**Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Recharts, JWT Authentication, Tailwind CSS, Mongoose ODM
+**Highlights**
 
-**Repository:** [🔗 View on GitHub](https://github.com/ashishkrishna888/Energy-Core)
+* Responsive Design
+* SEO Optimization
+* Modern UI/UX
+* Performance-Focused Architecture
+* Production Deployment
+* Domain Configuration
 
 ---
 
-### ⚡ SANDS Business Website (Freelance Project)
-A professional, modern business website developed for a client with a focus on high performance, search engine optimization (SEO), responsive design, and smooth user experience.
+### ⚡ Energy Core
 
-**Key Features:**
-- 📱 Responsive layout optimized for all device sizes
-- 📈 Advanced SEO optimization for organic visibility
-- 🎨 Premium, custom-tailored UI/UX
-- 🚀 Performance-focused static and dynamic assets delivery
-- 🌐 Live production deployment & custom domain configuration
+A Full Stack MERN application for energy and water management.
 
-**Tech Stack:** React.js, Tailwind CSS, Vercel, DNS Configuration
+**Features**
+
+* JWT Authentication & Authorization
+* Device Management
+* Real-Time Monitoring
+* Interactive Dashboards
+* MongoDB Aggregation Pipelines
+* Responsive Design
+* Data Visualization
+
+**Tech Stack**
+
+React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 
 ---
 
-### 🗑️ Waste Management System
-A platform to spread awareness and encourage proper waste disposal. Built with modern web technologies to help communities manage waste more effectively.
+### 🗑 Waste Management System
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+A web platform designed to promote responsible waste management and environmental awareness.
+
+**Tech Stack**
+
+React.js, Node.js, Express.js, MongoDB
 
 ---
 
 ### 🤖 AI Bargain Hunter
-A smart shopping assistant built for finding the best deals. Uses AI to help users save money while shopping online.
 
-**Tech Stack:** React.js, Node.js, Python, AI/ML
+An AI-powered shopping assistant designed to help users discover better deals and smarter purchasing decisions.
+
+**Tech Stack**
+
+React.js, Python, AI Integrations, Node.js
+
+---
+
+## 📚 Currently Learning
+
+* Advanced React Patterns
+* Backend Architecture
+* System Design Fundamentals
+* Data Structures & Algorithms
+* Database Optimization
+* Cloud Deployment
+* DevOps Fundamentals
+* Scalable Web Application Design
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Hadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadishukoor&theme=dark&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&cache_seconds=3600)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadishukoor&theme=dark&layout=compact&hide_border=true&langs_count=8&cache_seconds=3600)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadishukoor&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=hadishukoor&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadishukoor&layout=compact&theme=dark)
 
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hadishukoor&theme=dark&hide_border=true&area=true)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=hadishukoor&theme=dark)
 
 </div>
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -156,37 +171,13 @@ A smart shopping assistant built for finding the best deals. Uses AI to help use
 
 </div>
 
----
+<br/>
 
-## 💬 Let's Talk
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
-
-- 📧 **Email:** [hadishukoor111@gmail.com](mailto:hadishukoor111@gmail.com)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hadishukoor111)
-- 🐙 **GitHub:** [@hadishukoor](https://github.com/hadishukoor)
+* 📧 Email: [hadishukoor111@gmail.com](mailto:hadishukoor111@gmail.com)
+* 💼 LinkedIn: [hadishukoor111](https://www.linkedin.com/in/hadishukoor111)
+* 🐙 GitHub: [hadishukoor](https://github.com/hadishukoor)
 
 ---
 
-## 🎯 Current Focus & Learning
+> Building software that solves real business problems while continuously growing as a software engineer.
 
-- 🎓 **Student Life:** Balancing academics with practical software development at LPU (2023 - 2027)
-- 🧠 **DSA & Problem Solving:** Strengthening algorithmic thinking and complex problem solving
-- 🔥 **Full Stack MERN:** Building scalable, robust, and optimized MERN applications
-- 📚 **Advanced React & Node:** Learning advanced React patterns and Node.js performance optimization
-- 🌐 **Cloud & DevOps:** Exploring cloud deployment architectures and DevOps practices
-- 🎨 **UI/UX Design:** Designing sleek, modern, and user-centric interfaces
-- 💻 **Optimization:** Refining code readability, caching strategies, and data modeling
-
----
-
-<div align="center">
-
-### ⚡ Fun Fact
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-**Thanks for visiting!** ⭐
-
-![Profile Views](https://komarev.com/ghpvc/?username=hadishukoor&color=blueviolet&style=flat-square)
-
-</div>
